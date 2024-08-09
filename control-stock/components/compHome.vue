@@ -8,14 +8,33 @@
             </h1>
             <div class="mt-8">
                 <div class="flex justify-evenly align-middle">
-                    <div class="w-[242px] mx-8 h-44 border-solid border-2 border-indigo-600 text-center"><h1 class="mt-24">Gestão de Usuário</h1></div>
-                    <div class="w-[242px] mx-8 border-solid border-2 border-indigo-600 text-center"><h1 class="mt-24">Cadastro de Fornecedor</h1></div>
+                    <div class="w-[242px] mx-8 h-44 border-solid border-2 border-indigo-600 text-center">
+                        <img class="w-[120px] ml-16 mt-2" src="/assets/png-man-removebg-preview.png" alt="">
+                        <h1 class="mt-1">
+                            Gestão de Usuário
+                        </h1>
+                    </div>
+                    <div class="w-[242px] mx-8 border-solid border-2 border-indigo-600 text-center">
+                        <h1 class="mt-24">
+                            Cadastro de Fornecedor
+                        </h1>
+                    </div>
                     <div class="w-[242px] mx-8 border-solid border-2 border-indigo-600 text-center"><h1 class="mt-24">Cadastro de Produtos</h1></div>
                 </div>
                 <div class="flex justify-evenly align-middle my-8">
                     <div class="w-[242px] mx-8 h-44 border-solid border-2 border-indigo-600 text-center"><h1 class="mt-24">Saída de Estoque</h1></div>
-                    <div class="w-[242px] mx-8 border-solid border-2 border-indigo-600 text-center"><h1 class="mt-24">Entrada do Estoque</h1></div>
-                    <div class="w-[242px] mx-8 border-solid border-2 border-indigo-600 text-center"><h1 class="mt-24">Gráficos</h1></div>
+                    <div class="w-[242px] mx-8 border-solid border-2 border-indigo-600 text-center">
+                        <img class="w-[120px] ml-16 mt-2" src="/assets/stock.png" alt="">
+                        <h1 class="">
+                            Entrada do Estoque
+                        </h1>
+                    </div>
+                    <div class="w-[242px] mx-8 border-solid border-2 border-indigo-600 text-center">
+                        <img class="w-[130px] ml-14 mt-8" src="/assets/pngwing.com.png" alt="">
+                        <h1 class="">
+                            Gráficos
+                        </h1>
+                    </div>
                 </div>
                 <div class="w-[242px] h-44 mx-8 border-solid border-2 border-indigo-600 text-center"><h1 class="mt-24">Cadastro de clientes</h1></div>
             </div>
