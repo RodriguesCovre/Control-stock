@@ -1,8 +1,9 @@
 <script lang="ts">
+import 'tailwindcss/tailwind.css'
 
 </script>
 
-<template class=" bg-black">
+<template>
     <compHeader/>
     <compHome/>
 </template>
