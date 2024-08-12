@@ -17,17 +17,19 @@ import 'tailwindcss/tailwind.css'
                         </h1>
                     </div>
                     <div class="shadow-xl w-[242px] mx-8 border-solid border-2  text-center">
-                        <img class="w-[120px] ml-16 mt-2" src="/assets/Fornecedores.png" alt="">
-                        <h1>
+                        <img class="w-[120px] ml-16 mt-3" src="/assets/Fornecedores.png" alt="">
+                        <h1 >
                             Cadastro de Fornecedor
                         </h1>
                     </div>
-                    <div class="shadow-xl w-[242px] mx-8 border-solid border-2  text-center">
+                    <nuxtLink to="/cadProd">
+                    <div class="shadow-xl w-[242px] h-44 mx-8 border-solid border-2  text-center">
                         <img class="w-[130px] ml-14 mt-2" src="/assets/entradadeestoque.png" alt="">
-                        <h1 class="mt-8">
+                        <h1 class="mt-10">
                             Cadastro de Produtos
                         </h1>
                     </div>
+                </nuxtLink>
                 </div>
                 <div class="flex justify-evenly align-middle my-8">
                     <div class="shadow-xl w-[242px] mx-8 h-44 border-solid border-2  text-center">
